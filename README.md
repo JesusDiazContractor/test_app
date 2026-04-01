@@ -42,6 +42,4 @@ This will launch an interactive CLI to choose a category and answer questions.
 
 Contributions welcome. Please open an issue or submit a pull request with changes.
 
-## License
 
-This project declares MIT in package.json.
